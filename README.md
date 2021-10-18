@@ -21,3 +21,11 @@ Each folder in this repository will contain a different approach and funcionalit
 >Those problems are more complex than the Binary Classification due to its multiples outcomes.
 >
 >NN Inception will also be approached in this notebook as well as image manipulation in python.
+
+## Residual Neural Network
+> A **Residual** Neural Network to **recreate nose into humans faces**.
+>
+> A Complex Network was built and trained with human faces with their noses covered
+> so it could recreate them.
+>
+> Residual NN will be used in this notebook.
