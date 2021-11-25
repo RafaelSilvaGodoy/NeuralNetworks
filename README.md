@@ -22,6 +22,9 @@ Each folder in this repository will contain a different approach and funcionalit
 >
 >NN Inception will also be approached in this notebook as well as image manipulation in python.
 
+![image](https://user-images.githubusercontent.com/51878106/141318728-f2560b59-008c-4d12-ba2d-003d5981fdb2.png)
+
+
 ## Residual Neural Network
 > A **Residual** Neural Network to **recreate nose into humans faces**.
 >
@@ -29,6 +32,7 @@ Each folder in this repository will contain a different approach and funcionalit
 > so it could recreate them.
 >
 > Residual NN will be used in this notebook.
+![image](https://user-images.githubusercontent.com/51878106/141318923-5d3f84f9-5676-4c1b-8c74-21b3c4d5f4f6.png)
 
 ## NLP with Recurrent Neural Network
 >
@@ -36,3 +40,5 @@ Each folder in this repository will contain a different approach and funcionalit
 >
 > A Network was developed to learn the sentiment contained into the reviews written by the movie viewers.
 >
+
+
