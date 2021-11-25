@@ -36,9 +36,10 @@ Each folder in this repository will contain a different approach and funcionalit
 
 ## NLP with Recurrent Neural Network
 >
-> A **Recurrent Neural Network** for **Natural Language Processing** the IMDB movies review.
+> A **Recurrent Neural Network** for **Natural Language Processing** the IMDB's movies review.
 >
 > A Network was developed to learn the sentiment contained into the reviews written by the movie viewers.
 >
+![image](https://user-images.githubusercontent.com/51878106/143365120-72a6aafb-660c-476b-8979-bdd1bd6b8157.png)
 
 
