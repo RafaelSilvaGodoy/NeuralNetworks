@@ -29,3 +29,10 @@ Each folder in this repository will contain a different approach and funcionalit
 > so it could recreate them.
 >
 > Residual NN will be used in this notebook.
+
+## NLP with Recurrent Neural Network
+>
+> A **Recurrent Neural Network** for **Natural Language Processing** the IMDB movies review.
+>
+> A Network was developed to learn the sentiment contained into the reviews written by the movie viewers.
+>
