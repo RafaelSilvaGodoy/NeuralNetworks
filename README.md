@@ -50,5 +50,11 @@ Each folder in this repository will contain a different approach and funcionalit
 >the other as style and then combine both images to generate the "mixture" of them.
 ![output2](https://user-images.githubusercontent.com/51878106/146650341-85578eda-9749-4b75-9991-248a09fe25e6.png)
 
-
+## Object Detection
+>
+> A Neural Network for **Object Detection**.
+>
+> The task consists in using images of the objects that you wish to detect to train an
+>already built NN. The NN used was YOLO4.
+![output](https://user-images.githubusercontent.com/51878106/146651088-75d5ac91-d3ee-4643-9129-643fc4ba176e.png)
 
