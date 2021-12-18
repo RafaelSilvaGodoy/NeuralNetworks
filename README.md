@@ -42,4 +42,13 @@ Each folder in this repository will contain a different approach and funcionalit
 >
 ![image](https://user-images.githubusercontent.com/51878106/143365120-72a6aafb-660c-476b-8979-bdd1bd6b8157.png)
 
+## Style Transfer
+>
+> A Neural Network for **Style Transfer**.
+>
+> The task consists in using two pictures, one as content and 
+>the other as style and then combine both images to generate the "mixture" of them.
+![output2](https://user-images.githubusercontent.com/51878106/146650341-85578eda-9749-4b75-9991-248a09fe25e6.png)
+
+
 
