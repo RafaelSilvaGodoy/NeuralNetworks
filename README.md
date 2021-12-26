@@ -58,3 +58,13 @@ Each folder in this repository will contain a different approach and funcionalit
 >already built NN. The NN used was YOLO4.
 ![output](https://user-images.githubusercontent.com/51878106/146651088-75d5ac91-d3ee-4643-9129-643fc4ba176e.png)
 
+## Reinforcement Learning
+>
+> A **Reinforced Learning** method called **DQN**.
+> 
+> An agent is trained (green) by playing against Atari (orange) on a ping-pong game.
+>
+
+![ep000189](https://user-images.githubusercontent.com/51878106/147418227-c95dcd0c-5eb4-49d3-b263-38ec7e35f1d6.gif)
+
+
